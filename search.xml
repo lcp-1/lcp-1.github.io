@@ -3,8 +3,7 @@
   <entry>
     <title>deep learning</title>
     <url>/2022/01/25/1/</url>
-    <content><![CDATA[<h1 id="this-is"><a href="#this-is" class="headerlink" title="this is"></a>this is</h1><h2 id="dfsdfd"><a href="#dfsdfd" class="headerlink" title="dfsdfd"></a>dfsdfd</h2><h3 id="dfsv"><a href="#dfsv" class="headerlink" title="dfsv"></a>dfsv</h3><p>$ fdfs $</p>
-<h1 id="动手学深度学习（Dive-into-Deep-Learning，D2L）"><a href="#动手学深度学习（Dive-into-Deep-Learning，D2L）" class="headerlink" title="动手学深度学习（Dive into Deep Learning，D2L）"></a>动手学深度学习（Dive into Deep Learning，D2L）</h1><p><a href="http://ci.d2l.ai/job/d2l-zh/job/master/"><img src="http://ci.d2l.ai/job/d2l-zh/job/master/badge/icon" alt="Build Status"></a></p>
+    <content><![CDATA[<h1 id="动手学深度学习（Dive-into-Deep-Learning，D2L）"><a href="#动手学深度学习（Dive-into-Deep-Learning，D2L）" class="headerlink" title="动手学深度学习（Dive into Deep Learning，D2L）"></a>动手学深度学习（Dive into Deep Learning，D2L）</h1><p><a href="http://ci.d2l.ai/job/d2l-zh/job/master/"><img src="http://ci.d2l.ai/job/d2l-zh/job/master/badge/icon" alt="Build Status"></a></p>
 <p><a href="https://zh.d2l.ai/">本书网址：zh.d2l.ai</a> |  <a href="https://zh.d2l.ai/chapter_prerequisite/install.html">如何安装和使用书中源代码</a></p>
 <h5 align="center"><i>理解深度学习的最佳方法是学以致用。</i></h5>
 
@@ -77,6 +76,22 @@
 ]]></content>
       <tags>
         <tag>guide</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>fortune</title>
+    <url>/2022/01/25/%E6%A0%BC%E8%A8%80/</url>
+    <content><![CDATA[<blockquote>
+<p>“唯一可以让穷人感到安慰的是奢侈；唯一可以让富人感到安慰的是节省”<br><b>&mdash; 王尔德</b></p>
+<p>“当坏人抱团时，好人必须联合，否则他们会一个一个倒下，成为一场卑鄙的斗争中无人同情的牺牲品。”<br><b>&mdash; 埃德蒙·伯克</b></p>
+<p>“我们只不过是世界的镜像。外部世界的所有倾向都能在我们自身所在的世界里找到。如果可以改变自己，那么外部世界的倾向也会相应改变。”<br><b>&mdash; 甘地</b></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>fortune</category>
+      </categories>
+      <tags>
+        <tag>fortune</tag>
       </tags>
   </entry>
 </search>
